@@ -1,17 +1,16 @@
-### Voting-app Backend
+# Voting-app Backend
 
-```
 A Node.js-based web application that allows users to register, log in, and vote for candidates. Uses MongoDB for persistent storage and JWT for secure authentication.
-```
 
-**Tech Stack**
-```
+
+# **Tech Stack**
+
 - Node.js
 - Express.js
 - MongoDB (via Mongoose)
 - JWT for authentication
 - dotenv for environment variables
-```
+
 
 # Project setup instrsuctions
 1. Clone Project
